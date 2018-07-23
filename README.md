@@ -13,5 +13,5 @@ Jul 21, 2018:
 [SS] Qiao, S., Zhang, Z., Shen, W., Wang, B., & Yuille, A. (2017). Gradually updated neural networks for large-scale image recognition. arXiv preprint arXiv:1711.09280.  
 [OP] 最优化理论与算法（第二版）清华大学出版社  
 Jul 23, 2018:  
-[ML] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1). Cambridge: MIT press. Chapiter 6,8 and 11.  
+[ML] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1). Cambridge: MIT press. Chapiter 6, 8 and 11.  
 [OP] 最优化理论与算法（第二版）清华大学出版社    
