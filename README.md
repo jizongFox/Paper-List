@@ -15,7 +15,7 @@ Jul 21, 2018:
 Jul 23, 2018:  
 [ML] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1). Cambridge: MIT press. Chapiter 6, 8 and 11.  
 [OP] 最优化理论与算法（第二版）清华大学出版社     
-Ju 24, 2018
+Ju 24, 2018  
 [OP] http://www.cad.zju.edu.cn/home/zhx/csmath/doku.php?id=2017#courselet_on_multivariate_analysis  
 [OP] http://www.stat.cmu.edu/~ryantibs/convexopt/  
 [SS] [Pathak, D., Krahenbuhl, P., & Darrell, T. (2015). Constrained convolutional neural networks for weakly supervised segmentation. In Proceedings of the IEEE international conference on computer vision (pp. 1796-1804).](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pathak_Constrained_Convolutional_Neural_ICCV_2015_paper.pdf)  
