@@ -23,3 +23,5 @@ Jul 25, 2018:
 [OP] [Convex Optimization: Fall 2016](http://www.stat.cmu.edu/~ryantibs/convexopt/)  
 [OP] [Pathak, D., Krahenbuhl, P., & Darrell, T. (2015). Constrained convolutional neural networks for weakly supervised segmentation. In Proceedings of the IEEE international conference on computer vision (pp. 1796-1804).](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pathak_Constrained_Convolutional_Neural_ICCV_2015_paper.pdf)    
 [OP] [Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980.](https://arxiv.org/abs/1412.6980)  
+Jul 28, 2018  
+[OP] Frerix, T., Möllenhoff, T., Moeller, M., & Cremers, D. (2017). Proximal backpropagation. arXiv preprint arXiv:1706.04638. [link](https://arxiv.org/abs/1706.04638) Great paper to reproduce.  
