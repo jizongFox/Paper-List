@@ -28,3 +28,4 @@ Jul 28, 2018
 [OP] Frerix, T., Möllenhoff, T., Moeller, M., & Cremers, D. (2017). Proximal backpropagation. arXiv preprint arXiv:1706.04638. [[link]](https://arxiv.org/abs/1706.04638) Great paper to reproduce.    
 Jul 29, 2018
 [WS] Bilen, H., & Vedaldi, A. (2016). Weakly supervised deep detection networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2846-2854). [[link]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.html)  
+[WS] Teh, E. W., Rochan, M., & Wang, Y. (2016). Attention Networks for Weakly Supervised Object Localization. In BMVC. [[link]](http://www.cs.umanitoba.ca/~ywang/papers/bmvc16_attention.pdf) This paper is not very solid.  
