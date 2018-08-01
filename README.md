@@ -32,4 +32,4 @@ Jul 29, 2018
 Jul 31, 2018  
 [OP] Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications  
 [Others] Multi-task seizure detection: addressing intra-patient variation in seizure morphologies
-[AT] Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey  
+[AD] Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey  
