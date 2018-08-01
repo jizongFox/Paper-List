@@ -31,5 +31,5 @@ Jul 29, 2018
 [WS] Teh, E. W., Rochan, M., & Wang, Y. (2016). Attention Networks for Weakly Supervised Object Localization. In BMVC. [[link]](http://www.cs.umanitoba.ca/~ywang/papers/bmvc16_attention.pdf) This paper is not very solid.  
 Jul 31, 2018  
 [OP] Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications  
-[Others] Multi-task seizure detection: addressing intra-patient variation in seizure morphologies
+[Others] Multi-task seizure detection: addressing intra-patient variation in seizure morphologies   
 [AD] Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey  
