@@ -29,3 +29,7 @@ Jul 28, 2018
 Jul 29, 2018
 [WS] Bilen, H., & Vedaldi, A. (2016). Weakly supervised deep detection networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2846-2854). [[link]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.html)  
 [WS] Teh, E. W., Rochan, M., & Wang, Y. (2016). Attention Networks for Weakly Supervised Object Localization. In BMVC. [[link]](http://www.cs.umanitoba.ca/~ywang/papers/bmvc16_attention.pdf) This paper is not very solid.  
+Jul 31, 2018  
+[OP] Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications  
+[Others] Multi-task seizure detection: addressing intra-patient variation in seizure morphologies
+
