@@ -35,3 +35,7 @@ Jul 31, 2018
 Aug 1, 2018  
 [AD] Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey    
 [Others] https://openreview.net/pdf?id=SkciMAjiG  
+
+After long exams and completations   
+Aug 30, 2018  
+A survey on deep learning-based fine-grained object classification and semantic segmentation
