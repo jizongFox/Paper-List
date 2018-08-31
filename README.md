@@ -38,4 +38,5 @@ Aug 1, 2018
 
 After long exams and completations   
 Aug 30, 2018  
-A survey on deep learning-based fine-grained object classification and semantic segmentation
+A survey on deep learning-based fine-grained object classification and semantic segmentation  
+Diversified Visual Attention Networks for Fine-Grained Object Classification  
